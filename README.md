@@ -32,7 +32,7 @@ Open your web browser and go to http://localhost:8501/ to view the web applicati
 Search for books using the search bar on the homepage.  
 View your recommended books on your profile page.  
 ## Credits 🙌  
-This project was developed by Ayesha Irshad and Muhammad Ahmed. Feel free to contact us at ayeshaitshad124@gmail.com or K214734@nu.edu.pk or K21 for any questions or feedback.  
+This project was developed by Ayesha Irshad and Muhammad Ahmed. Feel free to contact us at ayeshaitshad124@gmail.com or K214734@nu.edu.pk or K213092@nu.edu.pk for any questions or feedback.  
   
 ## License 📜  
 Feel free to use and modify this code for personal or commercial purposes.
