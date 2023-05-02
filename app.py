@@ -1,7 +1,10 @@
 import numpy as np
 import pickle
 import streamlit as st
+from PIL import Image
+image = Image.open('woven.png')
 
+st.image(image, caption='')
 st.header("Book recommender Sytem Using Colaborative Function")
 model = pickle.load(open("artifacts/model.pkl",'rb'))
 books_name=pickle.load(open('artifacts/book_name.pkl','rb'))
