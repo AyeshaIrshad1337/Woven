@@ -4,7 +4,9 @@
 Woven is a collaborative book recommendation system that helps users find books based on their reading preferences. The system uses a collaborative filtering approach to recommend books to users by comparing their preferences with other users who have similar interests.  
   
 👨‍💻 This project is built with Python.  
-  
+## Preview
+[Woven.webm](https://github.com/AyeshaIrshad1337/Woven/assets/104616632/be7bb209-0dc0-44c1-930e-57a0a5e84da6)
+
 ## Features 🚀  
 Book search functionality 🔍  
 Book recommendation based on user preferences 📖  
