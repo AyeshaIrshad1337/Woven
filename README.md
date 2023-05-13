@@ -27,7 +27,6 @@ To run this project on your local machine, you need to have Python 3.8 or higher
 Or you can add these libraries into a requirement.txt  
 Clone the repository to your local machine.  
 Create a virtual environment and activate it. Or open Vs code and run without virtual environment   
-Install the required dependencies using pip install -r requirements.txt.  
 Run the server using streamlit run app.py.  
 Open your web browser and go to http://localhost:8501/ to view the web application.  
 ## Usage 🤓  
